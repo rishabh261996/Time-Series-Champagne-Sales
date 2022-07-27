@@ -11,6 +11,18 @@ We will using  its champagne sales [data](https://docs.google.com/spreadsheets/d
 To achieve it , we will aply time series  techniques such as ARIMA, SARIMAX to arrive at the forecast for its future sales.
 
 
+# Decomposing into seasonal and trend:
+
+![image](https://user-images.githubusercontent.com/82542269/181350922-b96461fb-980c-40c3-8d00-76185b446511.png)
+
+# ACF and PACF PLOT:
+
+
+
+![image](https://user-images.githubusercontent.com/82542269/181351079-aea6d21c-b315-4822-8b9b-3d39eb708e93.png)
+
+
+
 # ARIMA MODEL
 
 ## Work on train data:
