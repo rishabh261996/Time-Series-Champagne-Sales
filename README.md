@@ -32,10 +32,16 @@ It worked well on the train data but could not deliver well on the test data. Th
 # SARIMAX MODEL
 
 
+## Prediction on Train data:
+
+![image](https://user-images.githubusercontent.com/82542269/181350463-7dcff011-8508-42da-bec8-c9f21a0bd86d.png)
+
+
+
 ## Prediction on Test data:
-![image](https://user-images.githubusercontent.com/82542269/181350030-12ece960-8f9c-4003-a371-544ba144cbf9.png)
 
 
+![image](https://user-images.githubusercontent.com/82542269/181350502-709897b9-f43d-4a94-938f-5209a7f7ca5c.png)
 
 
 # Conclusion:
