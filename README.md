@@ -13,14 +13,14 @@ To achieve it , we will aply time series  techniques such as ARIMA, SARIMAX to a
 
 # ARIMA MODEL
 
-Work on train data:
+## Work on train data:
 ![image](https://user-images.githubusercontent.com/82542269/181350140-1d788366-c4c3-42c6-b04d-adb8b50381af.png)
 
 
 
 
 
-Work on test data:
+## Work on test data:
 
 ![image](https://user-images.githubusercontent.com/82542269/181350166-70ae7d6f-3951-4885-b867-547839bca4be.png)
 
@@ -32,7 +32,7 @@ It worked well on the train data but could not deliver well on the test data. Th
 # SARIMAX MODEL
 
 
-Prediction on Test data:
+## Prediction on Test data:
 ![image](https://user-images.githubusercontent.com/82542269/181350030-12ece960-8f9c-4003-a371-544ba144cbf9.png)
 
 
